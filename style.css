@@ -1,0 +1,8 @@
+body{
+    background-image: url(burger.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    background-attachment: fixed;
+} 
